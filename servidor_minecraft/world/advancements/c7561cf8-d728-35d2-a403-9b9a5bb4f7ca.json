@@ -35,6 +35,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-07-12 01:59:39 +0000",
       "minecraft:skeleton": "2025-07-12 00:50:56 +0000",
+      "minecraft:breeze": "2025-07-12 02:22:22 +0000",
       "minecraft:stray": "2025-07-12 02:06:19 +0000",
       "minecraft:witch": "2025-07-12 01:04:47 +0000",
       "minecraft:zombie": "2025-07-10 01:45:35 +0000",
@@ -1721,6 +1722,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-12 02:22:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-12 02:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-07-12 02:09:11 +0000"
@@ -1745,9 +1758,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-12 02:22:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
     "criteria": {
       "has_bolt_armor_trim_smithing_template": "2025-07-12 02:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-12 02:23:40 +0000"
     },
     "done": true
   },

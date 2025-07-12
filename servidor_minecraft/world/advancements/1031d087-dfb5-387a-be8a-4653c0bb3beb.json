@@ -993,6 +993,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-12 01:30:09 +0000",
+      "minecraft:piglin": "2025-07-12 02:27:06 +0000",
+      "minecraft:piglin_brute": "2025-07-12 02:22:04 +0000",
       "minecraft:zombie": "2025-07-12 01:08:11 +0000",
       "minecraft:drowned": "2025-07-12 01:01:14 +0000",
       "minecraft:hoglin": "2025-07-12 01:50:42 +0000"
